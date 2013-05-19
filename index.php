@@ -91,7 +91,7 @@
 
 			// Create our Application instance (replace this with your appId and secret).
 
-			$facebook = new Facebook(array('appId'  => '603591609651395','secret' => '74858ba23f4c6c24e72a1b24803f5b0a',));
+			$facebook = new Facebook(array('appId'  => '000000000000000','secret' => '000000000000000000000000000',));
 
 			//--------------------------------------------------------------------------
 
